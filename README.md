@@ -32,9 +32,6 @@ Handle the following flag characters for non-custom conversion specifiers:
                                                                                     
 8. Sarcasm is lost in print                                                         
 Handle the following length modifiers for non-custom conversion specifiers:         
-                                                                                    
-l                                                                                   
-h                                                                                   
 Conversion specifiers to handle: d, i, u, o, x, X                                   
                                                                                     
 9. Print some money and give it to us for the rain forests                          
@@ -56,7 +53,5 @@ Handle the following custom conversion specifier:
                                                                                     
 14. The flood of print has turned reading into a process of gulping rather than savo
 ring                                                                                
-Handle the following custom conversion specifier:                                   
-                                                                                    
-15. *                                                                               
-All the above options work well together.
+Handle the following custom conversion specifier:
+15. All the above options work well together.
